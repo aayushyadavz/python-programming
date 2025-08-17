@@ -1,4 +1,4 @@
-# import os
+import os
 
-# contents = os.listdir('/')
-# print(contents)
+contents = os.listdir('/')
+print(contents)

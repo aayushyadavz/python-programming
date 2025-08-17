@@ -1,9 +1,9 @@
 name = "aayush yadav"
 
-print(len(name)) # 5
-print(name.endswith("sh")) # True
-print(name.count("a")) # 2
-print(name.capitalize()) # Aayush
+print(len(name)) # 12
+print(name.endswith("sh")) # False
+print(name.count("a")) # 4
+print(name.capitalize()) # Aayush yadav
 print(name.find("yadav")) # 7
 print(name.replace("aayush", "anvesh")) # anvesh yadav
 

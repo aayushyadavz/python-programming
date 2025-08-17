@@ -1,7 +1,7 @@
 age = int(input("Enter a valid age: "))
 
 # if statement number 1
-if(age%2 == 0):
+if(age % 2 == 0):
     print("Age is even.")
 # end of if statement number 1
 

@@ -4,8 +4,8 @@ print(name[-4:-2]) # yu
 # Equivalent positive indexing for the above:
 print(name[1:3]) # yu
 
-print(name[:4]) # is same as print(name(0:4)
-print(name[1:]) # is same as print(name(0:5)
+print(name[:4]) # is same as print(name[0:4])
+print(name[1:]) # is same as print(name[1:5])
 
 # (ii) Slicing with skip value:
 a = "0123456789"
